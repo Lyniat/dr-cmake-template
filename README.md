@@ -1,1 +1,1 @@
-# dr-cmake-template
+# DragonRuby CMake template

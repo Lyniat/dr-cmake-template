@@ -1,0 +1,6 @@
+devid=lyniat
+devtitle=lyniat
+gameid=cmake-template
+gametitle=cmake-template
+version=1.0
+icon=sprites/icon.png
